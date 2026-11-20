@@ -135,6 +135,6 @@ El Seed crea inicialmente el siguiente usuario administrador, siempre que todav�
 
 **Institución:** Universidad Tecnológica Nacional (UTN)
 
-**Repositorio:** 
+**Repositorio:** https://github.com/Danilop23/Food-Store
 
 **Video de presentación:** https://drive.google.com/file/d/1U_TQAeTktq9MC2uEHGSctMuleWK08aGh/view?usp=sharing
